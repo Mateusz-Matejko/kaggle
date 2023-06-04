@@ -13,6 +13,8 @@ This repository contains my code for various Kaggle competitions and data analys
 
 **Description:** This project focuses on performing exploratory data analysis (EDA) on an Amazon sales dataset and building predictive models. The dataset contains information about various products, customer reviews, sales volume, pricing, and more. The analysis involves visualizing patterns, relationships, and trends in the data and developing machine learning models to predict sales performance.
 
+**Kaggle Dataset:** [Amazon Sales Data](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
+
 **Directory:** [Link to the project directory](/projects/eda-modeling-amazon-sales-dataset)
 
 **Highlights:** Include any notable findings, visualizations, or techniques used during the analysis and modeling process.
@@ -21,7 +23,7 @@ This repository contains my code for various Kaggle competitions and data analys
 
 **Description:** This project involves participating in the Kaggle competition "Regression with a Crab Age Dataset," which focuses on predicting the age of crabs based on various physical measurements. The competition provides a dataset containing measurements of crabs along with their actual ages. The goal is to develop a regression model that accurately predicts the age of new crabs based on their measurements.
 
-**Kaggle Competition:** [Regression with a Crab Age Dataset](https://www.kaggle.com/c/regression-with-a-crab-age-dataset)
+**Kaggle Competition:** [Regression with a Crab Age Dataset](https://www.kaggle.com/competitions/playground-series-s3e16/overview)
 
 **Directory:** [Link to the project directory](/projects/competition-regression-crab-age-dataset)
 
