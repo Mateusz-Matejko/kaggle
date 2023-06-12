@@ -5,37 +5,37 @@ This repository contains my code for various Kaggle competitions and data analys
 ## Table of Contents
 
 - [EDA + Modeling - Amazon Sales Dataset](#eda--modeling---amazon-sales-dataset)
-- [Crab age Competition 404/1300](#Competition---Crab-age-prediction-/-Regression)
-- [House price Competition unknown/5000](#Competition---House-price-prediction-/-Regression)
+- [Competition - Crab Age Prediction / Regression](#competition---crab-age-prediction--regression)
+- [Competition - House Price Prediction / Regression](#competition---house-price-prediction--regression)
 - [Project 4 - Not Yet](#project-4---not-yet)
 
 ## EDA + Modeling - Amazon Sales Dataset
 
-**Description:** This project focuses on performing exploratory data analysis (EDA) on an Amazon sales dataset and building predictive models. The dataset contains information about various products, customer reviews, sales volume, pricing, and more. The analysis involves visualizing patterns, relationships, and trends in the data and developing machine learning models to predict sales performance.
+**Description:** This project focuses on performing exploratory data analysis (EDA) on an Amazon sales dataset and building predictive models.
 
 **Kaggle Dataset:** [Amazon Sales Data](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 
-**Directory:** [Link to the project directory](/projects/eda-modeling-amazon-sales-dataset)
+**Directory:** [Link to the project directory](projects/eda-modeling-amazon-sales-dataset)
 
 **Highlights:** Include any notable findings, visualizations, or techniques used during the analysis and modeling process.
 
-## Competition - Crab age prediction / Regression
+## Competition - Crab Age Prediction / Regression
 
-**Description:** This project involves participating in the Kaggle competition "Regression with a Crab Age Dataset," which focuses on predicting the age of crabs based on various physical measurements. The competition provides a dataset containing measurements of crabs along with their actual ages. The goal is to develop a regression model that accurately predicts the age of new crabs based on their measurements.
+**Description:** Predicting the age of crabs based on physical measurements.
 
-**Kaggle Competition:** [Crab age prediction regression](https://www.kaggle.com/competitions/playground-series-s3e16/overview)
+**Kaggle Competition:** [Crab Age Prediction Regression](https://www.kaggle.com/competitions/playground-series-s3e16/overview)
 
-**Directory:** [Link to the project directory](/projects/competition-regression-crab-age-prediction)
+**Directory:** [Link to the project directory](projects/competition-regression-crab-age-prediction)
 
 **Highlights:** Outline any significant achievements, techniques, or models used in the competition.
 
-## Competition - House price prediction / Regression 
+## Competition - House Price Prediction / Regression 
 
-**Description:** Provide a brief overview of the project and its goals.
+**Description:** Predicting price of property based on 81 features, 48 of witch originally were strings.
 
-**Kaggle Competition:** [House price prediction regression](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
+**Kaggle Competition:** [House Price Prediction Regression](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 
-**Directory:** [Link to the project directory](/projects/competition-regression-house-prices-prediction)
+**Directory:** [Link to the project directory](projects/competition-regression-house-prices-prediction)
 
 **Highlights:** Mention any notable achievements, techniques used, or interesting findings from the project.
 
