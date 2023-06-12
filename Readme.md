@@ -5,8 +5,8 @@ This repository contains my code for various Kaggle competitions and data analys
 ## Table of Contents
 
 - [EDA + Modeling - Amazon Sales Dataset](#eda--modeling---amazon-sales-dataset)
-- [Competition - Regression with a Crab Age Dataset](#competition---regression-with-a-crab-age-dataset)
-- [Project 3 - Not Yet](#project-3---not-yet)
+- [Crab age Competition 404/1300](#Competition---Crab-age-prediction-/-Regression)
+- [House price Competition unknown/5000](#Competition---House-price-prediction-/-Regression)
 - [Project 4 - Not Yet](#project-4---not-yet)
 
 ## EDA + Modeling - Amazon Sales Dataset
@@ -19,21 +19,23 @@ This repository contains my code for various Kaggle competitions and data analys
 
 **Highlights:** Include any notable findings, visualizations, or techniques used during the analysis and modeling process.
 
-## Competition - Regression with a Crab Age Dataset
+## Competition - Crab age prediction / Regression
 
 **Description:** This project involves participating in the Kaggle competition "Regression with a Crab Age Dataset," which focuses on predicting the age of crabs based on various physical measurements. The competition provides a dataset containing measurements of crabs along with their actual ages. The goal is to develop a regression model that accurately predicts the age of new crabs based on their measurements.
 
-**Kaggle Competition:** [Regression with a Crab Age Dataset](https://www.kaggle.com/competitions/playground-series-s3e16/overview)
+**Kaggle Competition:** [Crab age prediction regression](https://www.kaggle.com/competitions/playground-series-s3e16/overview)
 
-**Directory:** [Link to the project directory](/projects/competition-regression-crab-age-dataset)
+**Directory:** [Link to the project directory](/projects/competition-regression-crab-age-prediction)
 
 **Highlights:** Outline any significant achievements, techniques, or models used in the competition.
 
-## Project 3 - Not Yet
+## Competition - House price prediction / Regression 
 
 **Description:** Provide a brief overview of the project and its goals.
 
-**Directory:** [Link to the project directory](/projects/project-3)
+**Kaggle Competition:** [House price prediction regression](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
+
+**Directory:** [Link to the project directory](/projects/competition-regression-house-prices-prediction)
 
 **Highlights:** Mention any notable achievements, techniques used, or interesting findings from the project.
 
